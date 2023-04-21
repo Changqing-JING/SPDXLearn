@@ -1,0 +1,3 @@
+[submodule "cmake-spdx"]
+	path = cmake-spdx
+	url = https://github.com/swinslow/cmake-spdx.git
